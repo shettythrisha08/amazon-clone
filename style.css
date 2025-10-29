@@ -29,6 +29,7 @@ align-items: center;
 {
     border: 1.5px solid white;
 }
+/**box 2**/
 .nav-address{
     font-size: 12px;
     color:#cccccc;
@@ -38,4 +39,15 @@ align-items: center;
     color:#ffffff;
     display:flex;
     align-items: center;
+}
+/** box 3**/
+.nav-search{
+    display: flex;
+    background-color: rgb(147, 147, 8);
+    width:620px;
+    height: 40px;
+    border-radius: 3px;
+}
+.search-select{
+    background-color: #f3f3f3;
 }
